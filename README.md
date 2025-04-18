@@ -9,6 +9,7 @@ The Quality Checker Tool is a Python-based system designed to automatically dete
 ---
 
 **📌 Key Features**
+
 🧠 ECC-Based Image Alignment – Precisely aligns drawings even with scale or rotation differences.
 
 🟥🟩 Color-Based Difference Highlighting – Red for removed/changed, Green for added/new components.
@@ -23,6 +24,7 @@ The Quality Checker Tool is a Python-based system designed to automatically dete
 
 ---
 **🤝 Ideal Use Cases**
+
 Manufacturing & Fabrication QC
 
 Product Lifecycle Management (PLM)
@@ -33,6 +35,7 @@ Regulatory & Compliance Inspections
 
 ---
 **🤖 Built With**
+
 Python
 
 OpenCV
@@ -42,4 +45,6 @@ PyMuPDF (fitz)
 scikit-learn (for clustering)
 
 Flask (optional REST API for Windchill)
+
+---
 
