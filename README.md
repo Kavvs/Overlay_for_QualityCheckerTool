@@ -1,4 +1,5 @@
 --
+
 **✅ Project Title: Quality Checker Tool – AutoCAD Drawing Comparator**
 **🛠️ Overview**
 The Quality Checker Tool is a Python-based system designed to automatically detect and highlight differences between two engineering drawings in PDF format (such as AutoCAD or CREO outputs). It's ideal for use cases in manufacturing, QA, and engineering design audits, ensuring even minute design discrepancies are flagged visually in red and green overlays.
